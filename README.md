@@ -11,7 +11,8 @@ Angelo Cesar Mendes da Silva, Diego Furtado Silva and Ricardo Marcondes Marcacin
 # Requirements
 
 A notebook available in [google colab](https://www.google.com) with example of use.
-
+Build heterogeneous graph: https://colab.research.google.com/drive/1nskyzzNuD-ZO-pP3uUrXkjh-xIaNtZSF?usp=sharing
+GCN: https://colab.research.google.com/drive/1n3joW7XAF9U6w49OBAEJ9zc_s1-t4_TH?usp=sharing
 # Citation 
 ```
 @inproceedings{silva2022MRLGCN,
